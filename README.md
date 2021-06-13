@@ -1,5 +1,5 @@
 # Data-Science-and-Business-analytics-Internship
-I am doing an internship in Data science and business analytics at The Sparks Foundation.It is really a go0d experience working at The Sparks Foundation. 
+I am doing an internship in Data science and business analytics at The Sparks Foundation.It is really a good experience working at The Sparks Foundation. 
 We are given tasks to complete in order to complete the internship.
 
 # TASK-1: Prediction using Supervised ML 
